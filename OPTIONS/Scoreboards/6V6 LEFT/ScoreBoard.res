@@ -16,7 +16,7 @@
 		"status_width"		"15"
 		"nemesis_width"		"15"
 		"class_width"		"15"
-		"score_width"		"25"
+		"score_width"		"15"
 		"ping_width"		"23"
 	}
 	"MainBG"
