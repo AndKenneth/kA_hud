@@ -84,7 +84,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"WhiteS"	//125 255 0 175
+		"fillcolor"		"150 150 150 255"	//125 255 0 175
 
 		if_mvm
 		{
@@ -121,7 +121,7 @@
 		"fieldName"		"BlueTeamLabel"
 		"font"			"Bold14"
 		"labelText"		"%blueteamname%"
-		"fgcolor"		"Black"
+		"fgcolor"		"black"
 		"textAlignment"	"west"
 		"xpos"			"c-251"
 		"xpos_minmode"		"c-393"
@@ -204,7 +204,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"WhiteS"
+		"fillcolor"		"150 150 150 255"
 
 		if_mvm
 		{
@@ -240,7 +240,7 @@
 		"fieldName"		"RedTeamLabel"
 		"font"			"Bold14"
 		"labelText"		"%redteamname%"
-		"fgcolor"		"Black"
+		"fgcolor"		"black"
 		"textAlignment"	"east"
 		"textAlignment_minmode"	"west"
 		"xpos"			"c150"
