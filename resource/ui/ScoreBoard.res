@@ -778,7 +778,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"		"LocalPlayerStatsPanel"
 		"xpos"			"0"
-		"xpos_minmode"			"-377"
+		"xpos_minmode"			"-507"
 		"ypos"			"117"
 		"ypos_minmode"		"142"
 		"zpos"			"2"
