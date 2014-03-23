@@ -3,7 +3,7 @@
 	"YAHUD"
 	{
 		"label" "kA_HUD"
-		"command" "engine con_enable 1; engine showconsole; clear; echo Email ken@kenneth.net.nz for feedback, or repsond in the thread on ozfortress or TFTV. Credit to Whayay for designing the base hud"
+		"command" "engine con_enable 1; engine showconsole; clear; echo kA_hud v 0.1; echo ==============; echo ; echo kA_hud is in as-is alpha release; echo please report any issues at github.com/AndKenneth/kA_hud"
 		"OnlyAtMenu" "1"
 	}
 
