@@ -84,7 +84,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"whites"	//125 255 0 175
+		"fillcolor"		"black"	//125 255 0 175
 
 		if_mvm
 		{
@@ -121,7 +121,7 @@
 		"fieldName"		"BlueTeamLabel"
 		"font"			"Bold14"
 		"labelText"		"%blueteamname%"
-		"fgcolor"		"black"
+		"fgcolor"		"white"
 		"textAlignment"	"west"
 		"xpos"			"c-251"
 		"xpos_minmode"		"c-393"
@@ -170,7 +170,7 @@
 		"fieldName"		"BlueTeamPlayerCount"
 		"font"			"Medium9"
 		"labelText"		"%blueteamplayercount%"
-		"fgcolor"		"Black"
+		"fgcolor"		"white"
 		"textAlignment"	"east"
 		"xpos"			"c-237"
 		"xpos_minmode"		"c-369"
@@ -204,7 +204,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"whites"
+		"fillcolor"		"black"
 
 		if_mvm
 		{
@@ -240,7 +240,7 @@
 		"fieldName"		"RedTeamLabel"
 		"font"			"Bold14"
 		"labelText"		"%redteamname%"
-		"fgcolor"		"black"
+		"fgcolor"		"white"
 		"textAlignment"	"east"
 		"textAlignment_minmode"	"west"
 		"xpos"			"c150"
@@ -290,7 +290,7 @@
 		"fieldName"		"RedTeamPlayerCount"
 		"font"			"Medium9"
 		"labelText"		"%redteamplayercount%"
-		"fgcolor"		"Black"
+		"fgcolor"		"white"
 		"textAlignment"	"west"
 		"textAlignment_minmode"	"east"
 		"xpos"			"c77"
@@ -780,7 +780,7 @@
 		"xpos"			"0"
 		"xpos_minmode"			"-507"
 		"ypos"			"117"
-		"ypos_minmode"		"102"
+		"ypos_minmode"		"142"
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"480"
