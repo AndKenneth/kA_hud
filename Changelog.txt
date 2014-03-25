@@ -10,6 +10,7 @@ Changelog:
     - Fosters scoreboards, box and circle version
     
   - All scoreboards have been recolored with a darker less distracting color scheme
+  - Bottom Scoreboard when used in 16v16 mode is fixed
   
 - Added changelog to repo
 
