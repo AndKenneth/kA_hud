@@ -73,7 +73,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"WhiteS"
+		"fillcolor"		"black"
 		if_mvm
 		{
 			"visible" "0"
@@ -92,7 +92,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"WhiteS"
+		"fillcolor"		"black"
 		if_mvm
 		{
 			"visible" "0"
@@ -114,7 +114,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"Black"//153 204 255 255
+		"fgcolor"		"white"//153 204 255 255
 		if_mvm
 		{
 			"visible" "0"
@@ -137,7 +137,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"Black"
+		"fgcolor"		"white"
 		if_mvm
 		{
 			"visible" "0"
@@ -160,7 +160,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"Black"//255 64 64 255
+		"fgcolor"		"white"//255 64 64 255
 		if_mvm
 		{
 			"visible" "0"
@@ -183,7 +183,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"Black"
+		"fgcolor"		"white"
 		if_mvm
 		{
 			"visible" "0"
@@ -568,7 +568,7 @@
 			"zpos"			"3"
 			"wide"			"40"
 			"tall"			"15"
-			"fgcolor"		"Black"
+			"fgcolor"		"white"
 			"visible"		"1"
 			"enabled"		"1"
 
@@ -593,7 +593,7 @@
 			"wide"			"140"
 			"tall"			"15"
 			"tall_minmode"		"15"
-			"fgcolor"		"Black"
+			"fgcolor"		"white"
 			"visible"		"1"
 			"enabled"		"1"
 
@@ -619,7 +619,7 @@
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"15"
-			"fgcolor"		"Black"
+			"fgcolor"		"white"
 			"visible"		"1"
 			"enabled"		"1"
 
@@ -644,7 +644,7 @@
 			"wide"			"140"
 			"tall"			"15"
 			"tall_minmode"		"15"
-			"fgcolor"		"Black"
+			"fgcolor"		"white"
 			"visible"		"1"
 			"enabled"		"1"
 
@@ -664,7 +664,7 @@
 			"font"			"Medium10"
 			"font_minmode"		"Medium10"
 			"labelText"		"#TF_ScoreBoard_AssistsLabel"
-			"fgcolor"		"Black"
+			"fgcolor"		"white"
 			"textAlignment"		"west"
 			"xpos"			"114"
 			"xpos_minmode"		"114"
@@ -692,7 +692,7 @@
 			"font"			"Medium10"
 			"font_minmode"		"Medium10"
 			"labelText"		"%assists%"
-			"fgcolor"		"Black"
+			"fgcolor"		"white"
 			"textAlignment"	"west"
 			"xpos"			"144"
 			"xpos_minmode"		"144"		//-16
@@ -721,7 +721,7 @@
 			"font"			"Medium10"
 			"font_minmode"		"Medium10"
 			"labelText"		"#TF_ScoreBoard_CapturesLabel"
-			"fgcolor"			"Black"
+			"fgcolor"			"white"
 			"textAlignment"		"west"
 			"xpos"			"170"
 			"xpos_minmode"		"170"
@@ -749,7 +749,7 @@
 			"font"			"Medium10"
 			"font_minmode"		"Medium10"
 			"labelText"		"%captures%"
-			"fgcolor"		"Black"
+			"fgcolor"		"white"
 			"textAlignment"	"west"
 			"xpos"			"210"
 			"ypos"			"r15"
@@ -1329,7 +1329,7 @@
 			"zpos"			"-3"
 			"wide"			"f0"
 			"tall"			"15"			
-			"fillcolor"		"White"
+			"fillcolor"		"black"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -1396,7 +1396,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"Black"
+			"fgcolor"		"white"
 
 			if_mvm
 			{
