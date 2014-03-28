@@ -3,7 +3,7 @@
 	"YAHUD"
 	{
 		"label" "kA_HUD"
-		"command" "engine con_enable 1; engine showconsole; clear; echo kA_hud v 0.1; echo ==============; echo ; echo kA_hud is in as-is alpha release; echo please report any issues at github.com/AndKenneth/kA_hud"
+		"command" "engine con_enable 1; engine showconsole; clear; echo kA_hud v 0.1; echo ==============; echo ; echo kA_hud currently Release 2; echo please report any issues at github.com/AndKenneth/kA_hud/issues or in the threads on ozfortress and tftv"
 		"OnlyAtMenu" "1"
 	}
 
