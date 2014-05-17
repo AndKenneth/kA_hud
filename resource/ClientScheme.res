@@ -24,7 +24,7 @@ Scheme
 		
 		//"Control Name"		"R   G   B   Transparency"	//Description
 		
-		"Damage"                        "255 255 255 175"		//Damage display
+		"Damage"                        "255 225 0 175"		//Damage display
 
 		"Ammo"                          "255 255 255 175"		//Current Clip
 		"AmmoReserve"                   "255 255 255 175"		//Total reserve
