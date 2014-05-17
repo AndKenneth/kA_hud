@@ -1,3 +1,9 @@
+##Release 3
+###Changelog
+- Reduced fadeaway time for damage markers (Now matches max batching length, 2 seconds)
+- Minor clientscheme changes
+- Added options for No Health crosses on target ID and Player HP
+
 ##Release 2
 ###Changelog
 - Scoreboards Fixed and Recolored
