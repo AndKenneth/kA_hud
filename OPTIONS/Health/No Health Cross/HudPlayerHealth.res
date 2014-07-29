@@ -408,5 +408,20 @@
 		"image"			"../HUD/defense_buff_fire_blue"
 		"fgcolor"		"TanDark"
 	}
+		"PlayerStatus_Parachute"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatus_Parachute"
+		"xpos"			"0"
+		"ypos"			"90"       //180
+		"zpos"			"8"
+		"wide"			"31"
+		"tall"			"31"
+		"visible"		"0"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"image"			""
+		"fgcolor"		"TanDark"
+	}
 }
 
